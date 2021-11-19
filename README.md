@@ -24,3 +24,9 @@ There is a collection of my assignments. The course is "Machine Learning and Dat
 由于那段时间在忙着夏令营、没时间卷，于是就草草地做了个深度生成模型，使用DCGAN生成MNIST和CIFAR10的图像。
 做完后自我感觉良好，还把结果放在夏令营面试时的PPT里面，结果被面试老师吐槽“怎么生成的图片长得不像?”……
 再到后来才知道苏老师是搞深度生成模型的专家，于是乎对自己班门弄斧的行为追悔莫及。
+
+~~下面是被面试老师吐槽的结果展示~~
+
+![MNIST生成GIF](https://github.com/cnhaox/2021spring-SYSU-Machine_Learning_And_Data_Mining/blob/master/18308013-%E9%99%88%E5%AE%B6%E8%B1%AA-assignment5/results/output.gif)
+
+![CIFAR10生成GIF](https://github.com/cnhaox/2021spring-SYSU-Machine_Learning_And_Data_Mining/blob/master/18308013-%E9%99%88%E5%AE%B6%E8%B1%AA-assignment5/results/output2.gif)
