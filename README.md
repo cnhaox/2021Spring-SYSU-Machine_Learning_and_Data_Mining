@@ -19,7 +19,7 @@ There is a collection of my assignments. The course is "Machine Learning and Dat
 以MNIST 数据集为例，探索K-Means 和GMM这两种聚类算法的性能。
 
 ### 2.5 Assignment 5-期末
-自由发挥， ~~越卷越好~~
+自由发挥，~~越卷越好~~。
 
 由于那段时间在忙着夏令营、没时间卷，于是就草草地做了个深度生成模型，使用DCGAN生成MNIST和CIFAR10的图像。
 做完后自我感觉良好，还把结果放在夏令营面试时的PPT里面，结果被面试老师吐槽“怎么生成的图片长得不像?”……
