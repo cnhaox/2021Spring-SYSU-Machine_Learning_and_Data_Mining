@@ -23,7 +23,6 @@ There is a collection of my assignments. This undergraduate course is "Machine L
 
 由于那段时间在忙着夏令营、没时间卷，于是就草草地做了个深度生成模型，使用DCGAN生成MNIST和CIFAR10的图像。
 做完后自我感觉良好，还把结果放在夏令营面试时的PPT里面，结果被面试老师吐槽“怎么生成的图片长得不像?”……
-再到后来才知道苏老师是搞深度生成模型的专家，于是乎对自己班门弄斧的行为追悔莫及。
 
 ~~下面是被面试老师吐槽的结果展示~~
 
