@@ -1,4 +1,4 @@
-# 2021spring-SYSU-Machine_Learning_and_Data_Mining
+# 2021Spring-SYSU-Machine_Learning_and_Data_Mining
 
 ## 1 Introduction
 There is a collection of my assignments. This undergraduate course is "Machine Learning and Data Mining" of the School of Computer Science, Sun Yat-Sen University in the spring of 2021. The instructor is Qinliang Su. 
