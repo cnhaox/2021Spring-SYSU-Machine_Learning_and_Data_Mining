@@ -1,7 +1,7 @@
 # 2021Spring-SYSU-Machine_Learning_and_Data_Mining
 
 ## 1 Introduction
-There is a collection of my assignments. This undergraduate course is "Machine Learning and Data Mining" of the School of Computer Science, Sun Yat-Sen University in the spring of 2021. The instructor is Qinliang Su. 
+There is my homework set. This undergraduate course is "Machine Learning and Data Mining" of the School of Computer Science, Sun Yat-Sen University in the spring of 2021. The instructor is Qinliang Su. 
 
 这是我在上中带计院的《机器学习与数据挖掘》本科课程时完成的课程作业与实验项目，老师为苏勤亮。内容只是简单备份，仅供参考。
 
